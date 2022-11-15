@@ -19,3 +19,5 @@ When: November 17th (Thursday)
 
 Where: Blackett 1004 / Virtual
 
+![image.png](https://github.com/Louisanity/QTSOC-WORKSHOP-2022/blob/171e555805a7f45f1dd7998e8957864da5ebb980/QTSoc.png)
+
